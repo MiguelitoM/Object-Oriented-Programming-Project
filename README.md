@@ -18,7 +18,7 @@ It stores data, calculates satisfaction indexes and lets the user interact via n
 ### Animals Menu
 
 - **Show All** – list every animal with health history.  
-- **Register** – add a new animal (creates species on the fly if unknown).  
+- **Register** – add a new animal.  
 - **Transfer to Habitat** – move an animal.  
 - **Show Satisfaction** – print one animal’s satisfaction score.
 
@@ -36,7 +36,7 @@ It stores data, calculates satisfaction indexes and lets the user interact via n
 - **Register** – create new habitat.  
 - **Change Area** – edit size.  
 - **Change Influence** – set POS / NEG / NEU for a species.  
-- **Add Tree** – plant a tree (DECIDUOUS or EVERGREEN).  
+- **Add Tree** – plant a tree.  
 - **Show Trees** – list every tree in one habitat.
 
 ### Vaccines Menu
